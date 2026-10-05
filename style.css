@@ -1,0 +1,56 @@
+.styling1 {
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Arial';
+    font-size: 13px;
+}
+
+h1 {
+    width: 400px;
+    margin: 0 auto;
+    border: 5px solid black;
+    border-radius: 8px;
+    color: red;
+    text-align: center;
+    font-family: 'Monteserrat';
+    font-size: 40px;
+}
+
+.card {
+    width: 400px;
+    height: 800px;
+    margin: 0 auto;
+    border: 5px solid black;
+    border-radius: 8px;
+
+}
+
+.card img {
+    width: 100%;
+    /*border-radius: 10px;*/
+    /*margin-top: 5px;*/
+}
+
+.name {
+    font-weight: 900;
+    font-size: 25px;
+}
+
+.bio{
+    font-family: 'Verdana Light';
+    font-size: 15px;
+    text-align: left;
+    /*top - right - bottom - left*/
+    /*margin: 0 0 0 7px;*/
+    margin-top: 25px;
+    margin-left: 7px;
+    line-height: 0.3;
+
+
+}
+
+.distance {
+    margin: 2px 0;
+    font-size: 13px;
+}
